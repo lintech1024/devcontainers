@@ -1,0 +1,6 @@
+{
+	"name": "ansible-workspace",
+	"build": {
+		"dockerfile": "Dockerfile"
+	}
+}
